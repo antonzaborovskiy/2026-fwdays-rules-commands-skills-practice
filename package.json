@@ -1,0 +1,27 @@
+{
+  "name": "2026-fwdays-rules-commands-skills-practice",
+  "version": "1.0.0",
+  "description": "Зроби презентацію за допомогою https://sli.dev/  На тему \"Правила, команди та навички для Agentic IDE\" Використовуй latest версію slidev",
+  "main": "index.js",
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonzaborovskiy/2026-fwdays-rules-commands-skills-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/antonzaborovskiy/2026-fwdays-rules-commands-skills-practice/issues"
+  },
+  "homepage": "https://github.com/antonzaborovskiy/2026-fwdays-rules-commands-skills-practice#readme",
+  "dependencies": {
+    "@slidev/cli": "^52.11.3",
+    "@slidev/theme-default": "^0.25.0"
+  }
+}
