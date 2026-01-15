@@ -29,11 +29,20 @@ mdc: true
 
 ---
 transition: fade-out
+layout: two-cols
 ---
 
 # Що таке Agentic IDE?
 
 IDE (Integrated Development Environment) з вбудованим AI-агентом (AI agent), який може:
+
+::right::
+
+<div class="flex justify-center items-center h-full">
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600" class="w-4/5 rounded shadow" />
+</div>
+
+::left::
 
 <v-clicks>
 
